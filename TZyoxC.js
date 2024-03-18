@@ -3208,8 +3208,8 @@ const cplist = [
  ) D ( )  /( (__(  O )) D ( ) _)  )   /\___ \      
 (____/(__/  \___)\__/(____/(____)(__\_)(____/      
 `);
-        console.log("Succesfully Attack By TZyoxC!\n");
-        console.log("Website/Target: " + process.argv[2]);
+        console.log("Succesfully Attack\n");
+        console.log("Target: " + process.argv[2]);
         console.log("Times: "+ process.argv[3]);
         console.log("RPS: "+ process.argv[4]);
         console.log("Threads: "+ process.argv[5]);
